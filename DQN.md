@@ -1,8 +1,6 @@
 Playing Atari with Deep Reinforcement Learning
 
-Volodymyr Mnih Koray Kavukcuoglu David Silver Alex Graves Ioannis Antonoglou
-Daan Wierstra Martin Riedmiller
-DeepMind Technologies
+
 
 We present the first deep learning model to successfully learn control policies directly
 from high-dimensional sensory input using reinforcement learning. The
